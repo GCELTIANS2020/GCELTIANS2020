@@ -12,7 +12,7 @@
 - :construction: *Organization under construction. Cool stuff coming soon!*
 
 
-- 📫 *Email us at*  [![Gmail Badge](https://img.shields.io/badge/-code.gos@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](mailto:code.gos@gmail.com)
+- 📫 *Email us at*  [![Gmail Badge](https://img.shields.io/badge/-adm.gceltos@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](mailto:adm.gceltos@gmail.com)
 
 
 - 🤝 *Join the community*  [![Gmail Badge](https://img.shields.io/badge/-code@gos-738adb?style=plastic&logo=Discord&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](www.discord.com)
