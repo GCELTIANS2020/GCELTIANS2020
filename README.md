@@ -43,7 +43,7 @@
 </p>
 <h2 align="center">Organization guidelines</h2>
 <p align="center">
-  <img align="center" src="https://media0.giphy.com/media/3o7btQ0NH6Kl8CxCfK/giphy.gif" width="240">
+  <img align="center" src="https://github.com/GCELTIANS2020/GCELTIANS2020/blob/5fccdde4d7c97298046e2b3b1b9a9ff64cfa1ef2/Assets/working%20on.gif" width="240">
 
 <br>
 <br>
