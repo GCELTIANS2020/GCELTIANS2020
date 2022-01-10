@@ -16,7 +16,13 @@
 
 <h2 align="center">Discussions guidelines</h2>
 <p align="center">
-  <img align="center" src="https://github.com/GCELTIANS2020/GCELTIANS2020/blob/5fccdde4d7c97298046e2b3b1b9a9ff64cfa1ef2/Assets/working%20on.gif" width="240">
+  - Everyone must respect each other.
+  - No racism or discrimination allowed.
+  - Fights and quarrels are totally restricted. If in case there is any problem, be free to talk to the admins personally. 
+  - Do not advertise in any discussion.
+  - Listen. Consider and acknowledge people's points before responding.
+  - Thanks for your support and co-operation.
+</p>
 
 <br>
 <br>
