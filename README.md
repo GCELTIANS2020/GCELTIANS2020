@@ -9,7 +9,8 @@
 
 - 📚 *We are listening. Post a new discussion or ask questions at https://github.com/GCELTIANS2020/GCELTIANS2020/discussions*
 
-- 🤝 *Join the community*  [![Gmail Badge](https://img.shields.io/badge/-code@gos-738adb?style=plastic&logo=Discord&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](www.discord.com)
+- 🤝 *Join the community*  [![Discord Badge](https://img.shields.io/badge/-code@gos-738adb?style=plastic&logo=Discord&logoColor=white)](https://discord.gg/BQBrXRMTFQ)
+
 
 </div>
 </p>
