@@ -1,13 +1,13 @@
-<h1>Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to GCELT Open Source Discussions</h1>
+<h1>Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to Open Source Paradise Discussions</h1>
 
-##### GCELT Open Source (GOS) is the collaboration group for young programmers and students from GCELT.
+##### Open Source Paradise is the collaboration group for young programmers and students from GCELT.
 
 <div>
 <img align="right" src="https://user-images.githubusercontent.com/67138059/113822290-e05ed080-979a-11eb-80fc-07a931bbfb2b.gif" width="240">
 
-- 💬 **Official discussions repo of GCELT Open Source**
+- 💬 **Official discussions repo of Open Source Paradise**
 
-- 📚 *We are listening. Post a new discussion or ask questions at https://github.com/GCELTIANS2020/GCELTIANS2020/discussions*
+- 📚 *We are listening. Post a new discussion or ask questions at https://github.com/OpenSourceParadise/discussions*
 
 - 🤝 *Join the community*  [![Discord Badge](https://img.shields.io/badge/-code@gos-738adb?style=plastic&logo=Discord&logoColor=white)](https://discord.gg/BQBrXRMTFQ)
 
