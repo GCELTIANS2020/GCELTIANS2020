@@ -1,11 +1,11 @@
-<h1>Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to Open Source Paradise Discussions</h1>
+<h1>Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to Open Codeyard Discussions</h1>
 
 ##### Open Source Paradise is the collaboration group for young programmers and students from GCELT.
 
 <div>
 <img align="right" src="https://user-images.githubusercontent.com/67138059/113822290-e05ed080-979a-11eb-80fc-07a931bbfb2b.gif" width="240">
 
-- 💬 **Official discussions repo of Open Source Paradise**
+- 💬 **Official discussions repo of Open Codeyard**
 
 - 📚 *We are listening. Post a new discussion or ask questions at https://github.com/OpenSourceParadise/discussions*
 
@@ -33,4 +33,3 @@
 <br>
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/67138059/113830295-1ce2fa00-97a4-11eb-8287-fcb43ba74c87.png" alt="Happy Coding" align = "center"/>
