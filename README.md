@@ -7,7 +7,7 @@
 
 - 💬 **Official discussions repo of Open Codeyard**
 
-- 📚 *We are listening. Post a new discussion or ask questions at https://github.com/OpenCodeyard/discussions*
+- 📚 *We are listening. Post a new discussion or ask questions at https://github.com/OpenCodeyard/discussions/discussions*
 
 - 🤝 **Join the community** &nbsp; [![Discord Badge](https://img.shields.io/badge/-Open%20Codeyard-738adb?style=social&logo=Discord&logoColor=738adb)](https://discord.gg/BQBrXRMTFQ)
 
