@@ -3,7 +3,7 @@
 ##### Open Source Paradise is the collaboration group for young programmers and students from GCELT.
 
 <div>
-<img align="right" src="https://user-images.githubusercontent.com/67138059/113822290-e05ed080-979a-11eb-80fc-07a931bbfb2b.gif" width="240">
+<img align="right" src="https://raw.githubusercontent.com/OpenCodeyard/.github/main/profile/animation_200_l7pzfepo.gif" width="240">
 
 - 💬 **Official discussions repo of Open Codeyard**
 
