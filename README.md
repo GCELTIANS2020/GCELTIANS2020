@@ -1,13 +1,13 @@
 <h1>Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to Open Codeyard Discussions</h1>
 
-##### Open Source Paradise is the collaboration group for young programmers and students from GCELT.
+##### Open Codeyard is the collaboration group for young programmers, students as well as professionals.
 
 <div>
 <img align="right" src="https://raw.githubusercontent.com/OpenCodeyard/.github/main/profile/animation_200_l7pzfepo.gif" width="150">
 
 - 💬 **Official discussions repo of Open Codeyard**
 
-- 📚 *We are listening. Post a new discussion or ask questions at https://github.com/OpenCodeyard/discussions/discussions*
+- 📚 *We are listening. Post a new discussion or ask questions at https://github.com/orgs/OpenCodeyard/discussions*
 
 - 🤝 **Join the community** &nbsp; [![Discord Badge](https://img.shields.io/badge/-Open%20Codeyard-738adb?style=social&logo=Discord&logoColor=738adb)](https://discord.gg/BQBrXRMTFQ)
 
