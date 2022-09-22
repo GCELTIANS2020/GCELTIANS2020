@@ -9,7 +9,7 @@
 
 - 📚 *We are listening. Post a new discussion or ask questions at https://github.com/orgs/OpenCodeyard/discussions*
 
-- 🤝 **Join the community** &nbsp; [![Discord Badge](https://img.shields.io/badge/-Open%20Codeyard-738adb?style=social&logo=Discord&logoColor=738adb)](https://discord.gg/BQBrXRMTFQ)
+-  🤝 **Join the community** &nbsp; [![Telegram Badge](https://img.shields.io/badge/-Open%20Codeyard-738adb?style=social&logo=Telegram&logoColor=738adb)](https://t.me/Open_Codeyard)
 
 
 </div>
